@@ -83,6 +83,7 @@ line? (5 bullet points)
 - bin/rake db:create
 - bin/rake db:migrate
 - bin/rake db:seed
+- bin/rake db:examples
 ```
 
 What is the command to scaffold a pet with a name and age attributes (hint:
