@@ -23,7 +23,7 @@ The controller
 Why don't we use views in our interpretation of the MVC pattern?
 
 ```md
-It's just stuff/data that gets sent back to the client... we replace views with serializers in Rails.
+It's just stuff/data that gets sent back to the client... it's more for the user than the developer. We replace views with serializers in Rails.
 ```
 
 What does C.R.U.D stand for?
@@ -38,7 +38,7 @@ Destroy
 In which part of the MVC pattern can we find C.R.U.D actions?
 
 ```md
-// your response here
+The controller
 ```
 
 List at least 5 standard rails actions that C.R.U.D requests correspond to?
