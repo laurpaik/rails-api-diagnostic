@@ -79,11 +79,11 @@ What are the commands to drop, create, migrate and seed a database from the comm
 line? (5 bullet points)
 
 ```bash
-bin/rake db:drop
-bin/rake db:create
-bin/rake db:migrate
-bin/rake db:seed
-bin/rake db:examples```
+- bin/rake db:drop
+- bin/rake db:create
+- bin/rake db:migrate
+- bin/rake db:seed
+```
 
 What is the command to scaffold a pet with a name and age attributes (hint:
 Also think of the data types for each attribute)?
