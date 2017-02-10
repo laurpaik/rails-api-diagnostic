@@ -55,12 +55,12 @@ A user action fires a `GET` request for `/people/1`. Explain in detail each step
 required for data to be returned to the client. (bullet points or ordered list)
 
 ```md
-The client sends the request GET /people/1 to the API
-The router points the request to the controller
-The controller asks the model to get the information
-The model looks at the database and sends it back to the controller
-The controller makes the information easier to read for the client
-The controller then sends that information back ot the client
+- The client sends the request GET /people/1 to the API
+- The router points the request to the controller
+- The controller asks the model to get the information
+- The model looks at the database and sends it back to the controller
+- The controller makes the information easier to read for the client
+- The controller then sends that information back ot the client
 ```
 
 What is the command to generate a new rails-api app?
